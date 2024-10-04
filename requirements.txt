@@ -1,0 +1,6 @@
+certifi~=2024.8.30
+requests~=2.32.3
+urllib3~=2.2.3
+idna~=3.10
+apscheduler~=3.10.1
+pyTelegramBotAPI~=4.12.0
